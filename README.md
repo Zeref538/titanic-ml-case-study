@@ -8,6 +8,8 @@
 
 ## The Result
 
+![Kaggle submission history](assets/kaggle-submissions.png)
+
 | Version | Hypothesis | CV score | Leaderboard | Verdict |
 |---|---|---|---|---|
 | [v1](titanic.ipynb) | Solid baseline: EDA, title/family features, 3-model comparison | 0.844 | 0.76794 | Baseline |
