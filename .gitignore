@@ -1,0 +1,11 @@
+# Kaggle competition data — not redistributable per competition rules
+# (download via: kagglehub.competition_download('titanic'))
+data/
+
+# Credentials
+kaggle.json
+access_token
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
